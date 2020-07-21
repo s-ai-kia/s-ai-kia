@@ -13,3 +13,5 @@
 🌌 Design & Creativity works: <a href="https://github.com/s-ai-kia/de-si9">de-si9</a><br />
 
 <b>Language:</b> Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
+
+![Saikia's github stats](https://github-readme-stats.vercel.app/api?username=s-ai-kia&show_icons=true&theme=dark)
