@@ -2,8 +2,9 @@
 👋🏻 Hi I am Amartya and I am passionate about Vision, Learning and Robotics. I am a Machine Learning Software Engineer.
 
 <b>Programming Languages: </b>Python, C++ 
-<b>Tools: </b>TensorFlow 2.0 <br />
-<b>Profile: </b><a href="https://www.linkedin.com/in/amartyasaikia/">LinkedIN</a>, <a href="https://drive.google.com/file/d/1HKraa0FgyOy4J6GMGtG9GozYR8WlmMoL/view?usp=sharing">resume</a>
+<b>Tools: </b>TensorFlow 2.0, PyTorch 
+<b>Cloud: </b>AWS, Google Cloud <br />
+<b>Profile: </b><a href="https://www.linkedin.com/in/amartyasaikia/">LinkedIN</a>, <a href="https://drive.google.com/file/d/1HKraa0FgyOy4J6GMGtG9GozYR8WlmMoL/view?usp=sharing">resume</a>, <a href="#">CV</a>
 
 <b>Project:</b> <a href="http://www.arcred.space/"> A.R.C.R.E.D </a>
 
