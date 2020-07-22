@@ -10,7 +10,7 @@
 
 🌌 `Full Stack Development:` <a href="https://github.com/s-ai-kia/full_stack">full_stack</a><br />
 🌌 `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a><br />
-🌌 `AI and Autonomous System:` <a href='#'>aias_notes</a>
+🌌 `AI and Autonomous System:` <a href='https://github.com/s-ai-kia/aias_notes'>aias_notes</a>
 
 `Language:` Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
 
