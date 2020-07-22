@@ -8,7 +8,7 @@
 
 <b>Personal Project:</b> <a href="http://www.arcred.space/"> A.R.C.R.E.D </a>
 
-🌌 `Full Stack Development:` <a href="https://github.com/s-ai-kia/full_stack">full_stack</a><br />; `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a><br />; `AI and Autonomous System N.O.T.E: `<a href='#'>aias_notes</a>
+🌌 `Full Stack Development:` <a href="https://github.com/s-ai-kia/full_stack">full_stack</a>; `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a>; `AI and Autonomous System N.O.T.E: `<a href='#'>aias_notes</a>
 
 `Language:` Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
 
