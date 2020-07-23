@@ -6,8 +6,8 @@
 
 <hr />
 
-`$ Coding Skills:` [Ml codes]() and [Competitive Programming]()<br />
-`$ Math and Stats:` [Mathematics notes]()<br />
+`$ Coding Skills:` [TF codes](https://github.com/s-ai-kia/tensorflow2_practice) and [Competitive Programming](https://github.com/s-ai-kia/comp_code)<br />
+`$ Math and Stats:` [Mathematics & Statistic notes]()<br />
 `$ ML Theory:` [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes) <br />
 `$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/), [Undergraduate Projects]() <br />
 
