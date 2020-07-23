@@ -1,7 +1,7 @@
 ### Machine Learning Software Engineer
 👋🏻 Hi I am Amartya and I am passionate about Vision, Learning and Robotics. I am a Machine Learning Software Engineer.
 
-`Programming Languages:` Python, C++  `Tools:` TensorFlow 2.0, PyTorch  `Cloud:` AWS, Google Cloud <br />
+`Programming Languages:` Python, C++, JavaScript  `Tools:` TensorFlow 2.0, PyTorch  `Cloud:` AWS, Google Cloud <br />
 `Profile:` <a href="https://www.linkedin.com/in/amartyasaikia/">LinkedIN</a>, `<`<a href="https://drive.google.com/file/d/1HKraa0FgyOy4J6GMGtG9GozYR8WlmMoL/view?usp=sharing">resume</a>`>`, <a href="#">codeforces</a>, `Education:` <b>B.E (CSE) '20</b> <br />
 
 <hr />
