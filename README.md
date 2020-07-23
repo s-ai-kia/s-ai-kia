@@ -6,10 +6,10 @@
 
 <hr />
 
-`$ Coding Skills:` [TF codes](https://github.com/s-ai-kia/tensorflow2_practice), [comp_code](https://github.com/s-ai-kia/comp_code), [full_stack](https://github.com/s-ai-kia/full_stack)<br />
+`$ Coding Skills:` [TF codes](https://github.com/s-ai-kia/tensorflow2_practice), [comp_code](https://github.com/s-ai-kia/comp_code), `<`[full_stack](https://github.com/s-ai-kia/full_stack)`>`<br />
 `$ Math and Stats:` [Mathematics & Statistic notes]()<br />
 `$ ML Theory:` [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes) <br />
-`$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/), [Undergraduate Projects]() <br />
+`$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/), [UG Projects & Papers]() <br />
 
 <hr />
 
