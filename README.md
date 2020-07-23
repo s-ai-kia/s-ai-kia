@@ -6,15 +6,11 @@
 `Cloud:` AWS, Google Cloud <br />
 `Profile:` <a href="https://www.linkedin.com/in/amartyasaikia/">LinkedIN</a>, `<`<a href="https://drive.google.com/file/d/1HKraa0FgyOy4J6GMGtG9GozYR8WlmMoL/view?usp=sharing">resume</a>`>`, <a href="#">codeforces</a>, `Education:` B.E (CSE) '20<br />
 
-```python
-$ Coding Skills: []()
-$ Math and Stats:
-$ ML Theory: [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes)
-$ Projects:
 
-```
-
-<b>Personal Project:</b> <a href="http://www.arcred.space/"> A.R.C.R.E.D </a>
+`$ Coding Skills:`
+`$ Math and Stats:`
+`$ ML Theory:` [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes)
+`$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/)
 
 Extra:<br />
 🌌 `AI and Autonomous Systems:` <a href='https://github.com/s-ai-kia/aias_notes'>aias_notes</a>
