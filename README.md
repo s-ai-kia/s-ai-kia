@@ -6,14 +6,14 @@
 
 <hr />
 
-`$ Coding Skills:` [TF codes](https://github.com/s-ai-kia/tensorflow2_practice) and [Competitive Programming](https://github.com/s-ai-kia/comp_code)<br />
+`$ Coding Skills:` [TF codes](https://github.com/s-ai-kia/tensorflow2_practice), [comp_code](https://github.com/s-ai-kia/comp_code), [full_stack](https://github.com/s-ai-kia/full_stack)<br />
 `$ Math and Stats:` [Mathematics & Statistic notes]()<br />
 `$ ML Theory:` [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes) <br />
 `$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/), [Undergraduate Projects]() <br />
 
 <hr />
 
-🌌 `Full Stack Development:` <a href="https://github.com/s-ai-kia/full_stack">full_stack</a> & `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a><br />
+🌌 `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a><br />
 🌌 `Language:` Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
 
 ![Saikia's github stats](https://github-readme-stats.vercel.app/api?username=s-ai-kia&show_icons=true&theme=dark)
