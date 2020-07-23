@@ -6,7 +6,7 @@
 
 <hr />
 
-`$ Math and coding:` [Mathematics & Statistic notes]() & [TF codes](https://github.com/s-ai-kia/tensorflow2_practice)<br />
+`$ Math and coding:` [Mathematics notes]() & [TF codes](https://github.com/s-ai-kia/tensorflow2_practice)<br />
 `$ ML Theory:` [AI and Autonomous Systems notes](https://github.com/s-ai-kia/aias_notes) <br />
 `$ Projects:` [A.R.C.R.E.D](http://www.arcred.space/), `/`[UG Projects & Papers]() <br />
 
