@@ -14,5 +14,3 @@
 
 🌌 `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a> & `Full Stack development:` [full_stack](https://github.com/s-ai-kia/full_stack)<br />
 `Language:` Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
-
-![Saikia's github stats](https://github-readme-stats.vercel.app/api?username=s-ai-kia&show_icons=true&theme=dark)
