@@ -15,4 +15,4 @@
 🌌 `Design & Creativity works:` <a href="https://github.com/s-ai-kia/de-si9">de-si9</a> & `Full Stack development:` [full_stack](https://github.com/s-ai-kia/full_stack)<br />
 `Language:` Assamese*, English*, Hindi*, Japanese (日本人) and German (Deutsche).
 
-Interests: @[tmva](https://github.com/root-project/root/tree/master/tmva), @[faiss](https://github.com/facebookresearch/faiss), @[dm_control](https://github.com/deepmind/dm_control), @[tensorflow](https://github.com/tensorflow/tensorflow), @[cpython](https://github.com/python/cpython), @[pytorch](https://github.com/pytorch/pytorch), @[mujoco](https://github.com/openai/mujoco-py)
+Interests: @[tmva](https://github.com/root-project/root/tree/master/tmva), @[faiss](https://github.com/facebookresearch/faiss), @[dm_control](https://github.com/deepmind/dm_control), @[tensorflow](https://github.com/tensorflow/tensorflow), @[cpython](https://github.com/python/cpython), @[pytorch](https://github.com/pytorch/pytorch), @[mujoco](https://github.com/openai/mujoco-py), @[navigation2](https://github.com/ros-planning/navigation2)
